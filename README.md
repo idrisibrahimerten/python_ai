@@ -1,4 +1,4 @@
 <img align="left" width="100" height="100" src="pythonimg.png">
 
-# Python Projects
-  Python dili üzerinde geliştirmiş veya geliştirmekte olduğum projeleri buradan keşfedebilirsiniz.
+# Python AI Projects
+  Python dili üzerinde yapay zeka üzerine geliştirmiş veya geliştirmekte olduğum projeleri buradan keşfedebilirsiniz.
