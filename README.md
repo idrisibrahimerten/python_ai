@@ -3,4 +3,4 @@
 # Python AI Projects
   Python dili üzerinde yapay zeka üzerine geliştirmiş veya geliştirmekte olduğum projeleri buradan keşfedebilirsiniz. <br>
   
-<img align="center" width="400" height="300" src="aipython.gif">
+<img align="center" width="500" height="400" src="aipython.gif">
